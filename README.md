@@ -15,21 +15,19 @@ This repository contains a simple Python-based movie recommendation system that 
    git clone https://github.com/your-username/Movie-Recommendation-System.git
    cd Movie-Recommendation-System
 2. **Install Required Libraries:**<br>
-Ensure you have Pandas installed:
+     Ensure you have Pandas installed:
 
-'''bash
-
-pip install pandas
+       pip install pandas
 
 3. **Run the Script:**
 
-'''bash
+     '''bash
 
-python movie_recommendation.py
+        python movie_recommendation.py
 4. **Input a Movie:**
-When prompted, enter your favorite movie title, and the system will recommend similar movies based on genre.
+     When prompted, enter your favorite movie title, and the system will recommend similar movies based on genre.
 
 ## Example Usage
 
-Enter your favorite movie: Inception
+Enter your favorite movie: Inception<br>
 Since you liked 'Inception', you might also like: Interstellar
