@@ -21,7 +21,7 @@ This repository contains a simple Python-based movie recommendation system that 
 
 3. **Run the Script:**
 
-     '''bash
+     
 
         python movie_recommendation.py
 4. **Input a Movie:**
